@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This is a website that will host a thematic US history unit on urban history in Roanoke."
+  },
+  {
+    "objectID": "index.html#stay-tuned-for-more",
+    "href": "index.html#stay-tuned-for-more",
+    "title": "Welcome",
+    "section": "Stay tuned for more!",
+    "text": "Stay tuned for more!"
+  }
+]

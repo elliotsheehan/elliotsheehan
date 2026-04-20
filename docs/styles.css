@@ -1,0 +1,54 @@
+/* css styles */
+
+@font-face {
+  font-family: "norvegan";
+  src: url("fonts/norvegan.ttf");
+}
+
+/* Norfolk & Western inspired palette */
+
+:root {
+  --nw-red: #A21E21;
+  --nw-yellow: #FCDE54;
+  --nw-black: #1A1A1A;
+  --nw-white: #FFFFFF;
+}
+
+body {
+  background-color: var(--nw-white);
+  color: var(--nw-black);
+}
+
+h1, h2, h3 {
+  color: var(--nw-red);
+}
+
+a {
+  color: var(--nw-yellow);
+}
+
+/* Norfolk & Western header styling */
+
+.navbar {
+  background-color: #A21E21 !important; /* Tuscan Red */
+}
+
+.navbar a,
+.navbar-brand {
+  color: #FCDE54 !important; /* N&W Yellow */
+}
+
+.navbar a:hover {
+  color: #FFFFFF !important;
+}
+
+.navbar-brand {
+  font-family: "norvegan", sans-serif;
+  letter-spacing: 1px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "norvegan", sans-serif !important;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}

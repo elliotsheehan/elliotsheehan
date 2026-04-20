@@ -2,7 +2,9 @@
 
 @font-face {
   font-family: "norvegan";
-  src: url("Fonts/norvegan.ttf");
+  src: url("Fonts/norvegan.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
 
 /* Norfolk & Western inspired palette */
